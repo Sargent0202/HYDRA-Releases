@@ -1,6 +1,3 @@
-# HYDRA Releases
+Hello ShadowSnowden, please message me on Discord -- Dox0202
 
-Compiled releases of [HYDRA](https://github.com/SnowdenShadow/HYDRA-Source) only - installers and the
-Velopack auto-update feed. No source code is published here.
-
-Download the latest release from the [Releases](../../releases) page.
+Your tool has had its keyauth removed 
