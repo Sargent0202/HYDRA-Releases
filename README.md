@@ -1,6 +1,5 @@
-# HYDRA Releases
+You're tool has been cracked and released without KeyAuth.
 
-Compiled releases of [HYDRA](https://github.com/SnowdenShadow/HYDRA-Source) only - installers and the
-Velopack auto-update feed. No source code is published here.
+No point in continuing with licenses bud.
 
-Download the latest release from the [Releases](../../releases) page.
+dox0202 on discord 
